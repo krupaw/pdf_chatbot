@@ -1,4 +1,4 @@
-# 🧠 PDF RAG Chatbot
+#  PDF RAG Chatbot
 
 A fully local Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask questions about it — no API keys needed.
 
